@@ -1,0 +1,2 @@
+export OWNER=
+export REPO=
